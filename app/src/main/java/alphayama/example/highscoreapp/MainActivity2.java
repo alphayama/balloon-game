@@ -1,4 +1,4 @@
-package alphayama.example.highscoreapp;
+package <package_name>.highscoreapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;

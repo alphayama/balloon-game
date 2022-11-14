@@ -1,4 +1,4 @@
-package alphayama.example.highscoreapp;
+package <package_name>.highscoreapp;
 
 import android.app.Activity;
 import android.content.Context;

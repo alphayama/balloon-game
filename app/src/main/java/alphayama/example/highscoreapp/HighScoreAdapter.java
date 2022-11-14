@@ -1,4 +1,4 @@
-package alphayama.example.highscoreapp;
+package <package_name>.highscoreapp;
 
 import android.content.Context;
 import android.view.LayoutInflater;
